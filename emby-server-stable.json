@@ -14,7 +14,7 @@
         "fontconfig",
         "freetype2",
         "fribidi",
-        "mbedtls",
+        "mbedtls3",
         "gnutls",
         "iconv",
         "opus",
